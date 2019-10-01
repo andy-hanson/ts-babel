@@ -1,4 +1,4 @@
-const ts = require("./babel.config.for_typescript")
+const ts = require("./babel.config.for_flow")
 
 module.exports = api => {
   const fromTs = ts(api)

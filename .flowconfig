@@ -1,0 +1,14 @@
+[ignore]
+.*/src/.*
+
+[include]
+flow_checkable_src
+
+
+[libs]
+
+[lints]
+
+[options]
+
+[strict]
